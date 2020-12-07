@@ -20,6 +20,6 @@ distributed_pieces = round((chicken / students))
 fabroas_pieces = (chicken % students)
 
 #outputs the pieces each student gets and the pieces Mr.Fabroa gets
-print("Each student gets:", distributed_pieces, "and Mr.Fabroa gets:", fabroas_pieces)
+print("Each student gets", distributed_pieces, "piece(s) and Mr.Fabroa gets", fabroas_pieces, "piece(s)")
 print("--- Thank you for using the ICS2O1a chicken pieces calculator! ---")
 
