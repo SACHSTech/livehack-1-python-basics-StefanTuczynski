@@ -18,4 +18,4 @@ f = (c * (9/5) + 32)
 
 #outputs the amount of degrees fahrenheit after conversion
 print(c , "degrees celsius equals", f, "degrees fahrenheit.")
-print("--- Thank you for using the online fahrenheit to celsius conveter! ---")
+print("--- Thank you for using the online celsius to fahrenheit converter! ---")
