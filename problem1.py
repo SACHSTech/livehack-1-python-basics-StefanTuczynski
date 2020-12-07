@@ -13,6 +13,9 @@ Date:   07/12/2020
 print("--- Welcome to the online celsius to fahrenheit converter ---")
 c = float(input("Degrees Celsius: "))
 
+#computes the amount of degrees celsius to amount of degrees fahrenheit
+f = (c * (9/5) + 32)
+
 #outputs the amount of degrees fahrenheit after conversion
-print(c , "degrees celsius equals", float(c * (9/5) + 32), "degrees fahrenheit .")
+print(c , "degrees celsius equals", f, "degrees fahrenheit.")
 print("--- Thank you for using the online fahrenheit to celsius conveter! ---")
